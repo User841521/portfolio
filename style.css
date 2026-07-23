@@ -1,0 +1,61 @@
+body {
+    font-family: sans-serif;
+}
+
+.link-header {
+    text-decoration: none;
+    color: black;
+    background-color: lightgreen;
+    padding: 3px;
+}
+
+header {
+    background-color: SpringGreen;
+    padding: 7px;
+}
+
+h1 {
+    text-align: center;
+    background-color: Ivory;
+}
+
+.ul_m {
+    background-color: LavenderBlush;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+ul li {
+    background-color: lightgreen;
+}
+
+footer {
+    background-color: SpringGreen;
+}
+
+.social {
+    padding: 5px;
+}
+
+p{
+    background-color: lightgreen;
+}
+
+.link-nav {
+    text-decoration: none;
+    color: black;
+    background-color: lightgreen;
+    padding: 3px;
+}
+
+nav {
+    margin: 5px;
+}
+
+ol li {
+    background-color: lightgreen;
+}
+
+h2 {
+    background-color: WhiteSmoke;
+}
